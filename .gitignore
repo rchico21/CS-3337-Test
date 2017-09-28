@@ -7,7 +7,7 @@
 !WebContent/
 !WebContent/**
 
-#/*.txt
+/*.txt
 /*.md
 
 !.gitignore
